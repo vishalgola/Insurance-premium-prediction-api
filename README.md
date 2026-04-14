@@ -1,7 +1,6 @@
 # 🚀 Insurance Premium Prediction API & Web App
 
-An end-to-end Machine Learning project that predicts insurance premium categories based on user inputs.
-Built using **FastAPI (backend)** and **Streamlit (frontend)**, containerized with **Docker** and deployed on **Render**.
+
 
 ---
 
