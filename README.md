@@ -7,8 +7,7 @@ Built using **FastAPI (backend)** and **Streamlit (frontend)**, containerized wi
 
 ## 🌐 Live Demo
 
-* 🔗 **Frontend (Streamlit UI):** https://insurance-premium-prediction-api-ui.onrender.com
-* 🔗 **Backend API Docs:** https://insurance-premium-prediction-api-gywc.onrender.com/docs
+
 
 ---
 
