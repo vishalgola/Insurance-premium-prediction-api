@@ -12,6 +12,7 @@ Built using **FastAPI (backend)** and **Streamlit (frontend)**, containerized wi
 
 ---
 
+## 🖼️ Project Preview
 
 > Add a screenshot of your homepage UI below
 
