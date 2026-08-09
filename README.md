@@ -12,7 +12,6 @@ Built using **FastAPI (backend)** and **Streamlit (frontend)**, containerized wi
 
 ---
 
-## 🖼️ Project Preview
 
 <img width="789" height="443" alt="image" src="https://github.com/user-attachments/assets/337a2764-4a53-4c69-b0a0-a191ec592f97" />
 
